@@ -1,6 +1,6 @@
 # Unix
 
-Basic (15 команд)
+Basic
 
 help — справка
 man — руководство
